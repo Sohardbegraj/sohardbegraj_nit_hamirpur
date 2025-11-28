@@ -292,9 +292,9 @@ bill-extraction-datathon/
 
 ## 👥 Team
 
-- **Name**: [Your Name]
-- **College**: [Your College]
-- **Email**: [Your Email]
+- **Name**: [Sohard Begraj]
+- **College**: [National Institute Of Technology Hamirpur]
+- **Email**: [Sohard16begraj@gmail.com]
 
 ## 📄 License
 
